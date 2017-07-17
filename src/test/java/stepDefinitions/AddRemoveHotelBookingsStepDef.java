@@ -20,6 +20,10 @@ public class AddRemoveHotelBookingsStepDef {
     public static final Date date = new Date();
     public static final DateTime dateTime = new DateTime();
 
+    public static void main (String[] args ) {
+
+    }
+
     public static final String firstName = ("testFName" + date.getTime());
     public static final String lastName = ("testSurname" + date.getTime());
     public static final String price = "117";
